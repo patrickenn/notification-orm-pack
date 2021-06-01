@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/notification-orm-pack",
+    "name": "patrickenn/notification-orm-pack",
     "type": "symfony-pack",
     "description": "A pack for SonataNotificationBundle with ORM support",
     "keywords": [
